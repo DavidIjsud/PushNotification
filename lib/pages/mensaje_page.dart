@@ -11,7 +11,7 @@ class MensajePage extends StatelessWidget {
 
     return Scaffold(
       appBar: AppBar(
-        title: Text('Mensaje de notificación 2 mejorado otra vez'),
+        title: Text('Mensaje de notificación 2 mejorado otra vez, pero ahora si corregido'),
       ),
       body: Center(
         child: Text(arg),
